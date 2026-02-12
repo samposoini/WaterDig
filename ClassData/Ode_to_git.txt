@@ -1,20 +1,34 @@
-Oh no git! You make me feel insane!
+testing 
+Oh git! You make me feel insane!
 You speak in riddles and are a pain.
 
 
 
 You make each class into a slog,
-and leave me beaten like a fog.
-
-
+and leave me after in a fog.
 
 Yet still I'll try to get the gist,
+<<<<<<< HEAD
 <<<<<<< HEAD
 With my head held high and my hand in list
 ___
 =======
 
+=======
+>>>>>>> e709795828a947150687fa24a468624716b047e7
 With my head held high and my hand in fist
+and leave me beaten like a blue cat.
+
+Yet still I'll try to get the gist,
+With my head held high and my hand in fist
+and leave after in a fog.
+
+Yet still I'll try to get the gist,
+With my head held high and my hand in fist
+and leave me beaten like a fog.
+
+Yet still I'll try to get the gist,
+With my head held high and my hand in fist..
 
 It is not in vain to fork in twain
 
